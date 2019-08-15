@@ -1,0 +1,1 @@
+<div id="pageFooter">Copyright &copy; Panda | <a href="../../panda_shop/storeadmin/">Admin</a></div>
